@@ -7,7 +7,6 @@ import javax.persistence.PersistenceContext;
 import facade.AbstractFacade;
 import facade.ActorFacade;
 import model.Actor;
-import model.Film;
 
 @Stateless
 public class ActorFacadeEJB extends AbstractFacade<Actor> implements ActorFacade {

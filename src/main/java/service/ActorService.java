@@ -109,5 +109,4 @@ public class ActorService {
         actorFacadeEJB.edit(entity);
     }
 	
-
 }
