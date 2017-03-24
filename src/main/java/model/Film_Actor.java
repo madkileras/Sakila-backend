@@ -27,6 +27,11 @@ public class Film_Actor implements Serializable {
 	public Film_Actor() {
 	}
 
+	public void setFilm_Actor(int id_actor, int id_film) {
+		this.actorId = id_actor;
+		this.filmId = id_film;
+	}
+
 	public int getActorId() {
 		return this.actorId;
 	}
