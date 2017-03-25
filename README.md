@@ -2,7 +2,16 @@
 
 Código de Ejemplo para Taller de Base de Datos
 
-El taller JavaEE consiste en construir servicios del tipo GET y POST para la tabla Film_Actor. 
+El taller JavaEE consiste en construir servicios del tipo GET y POST para la tabla Film_Actor.
+
+GRUPO 4:
+
+1 MORALES PADILLA MARCELO GUILLERMO
+2 MUÑOZ MUÑOZ MARCELO NICOLÁS
+3 VÁSQUEZ LIZANA JAVIER ANDRÉS
+4 VALLEJOS ARROYO SEBASTIAN IGNACIO
+5 PEÑA LOZANO ARTHUR KEVIN
+6 OLIVARES GONZÁLEZ NICOLÁS EDUARDO
 
 GET
 
